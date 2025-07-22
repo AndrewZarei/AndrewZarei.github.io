@@ -1,0 +1,9 @@
+// 20250722202539
+// https://raw.githubusercontent.com/solana-developers/program-examples/new-examples/tokens/tokens/.assets/spl-token.json
+
+{
+  "name": "Netarx Native Token",
+  "symbol": "Net",
+  "description": "Native Token for Netarx Network:)",
+  "image": "https://andrewzarei.github.io/Netarx.png"
+}
